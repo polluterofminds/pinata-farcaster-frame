@@ -9,7 +9,7 @@ const data = `
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta property="fc:frame:image" content="https://mktg.mypinata.cloud/ipfs/Qmbdi1gDbXPZx74N8ccUZ2kpF3Kqwk53zYXvT31d7MPb7T?filename=pinnie.png" />
-    <meta property="fc:frame:button:1" content="Nothing to see here [TEST]" />
+    <meta property="fc:frame:button:1" content="Do you want to see Pinnie float?" />
     <meta property="fc:frame" content="vNext" />
     <title>Pinnie takes flight</title>
   </head>
